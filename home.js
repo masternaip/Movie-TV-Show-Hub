@@ -1,3 +1,4 @@
+
 const API_KEY = '7e863169c39e42ac68d117c538af97fc';
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMG_URL = 'https://image.tmdb.org/t/p/original'; // Use 'original' for banner images for better quality
